@@ -319,4 +319,3 @@ void finalizarVotacao()
             readimagefile(r[i].foto, medida[i][0],medida[i][1],medida[i][2],medida[i][3]);
         }
 }
-
