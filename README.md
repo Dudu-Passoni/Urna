@@ -1,2 +1,5 @@
 # Urna
-A project made by me and a friend for a college work. Its a voting system, and was themed inspired by Gaules a Brazillian popular streamer.
+
+Graduation project made using graphics.h in C/C++.
+
+A voting system to classify the best tribe streamer
